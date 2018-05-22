@@ -1,2 +1,4 @@
 This is going to be some conflict resolution training.
 COffee
+This is some more text for the conflict
+
